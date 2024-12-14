@@ -53,8 +53,11 @@
       "methods": ["grilling", "roasting", "stir-frying", "pan-frying"],
       "spice_level": "hot",
       "marinades": ["citrus-based", "herb-infused", "sweet heat"],
-      "avoid_methods": ["deep-frying"]
+      "avoid_methods": ["deep-frying (at home only)"]
     },
+    "dining_out_preferences": {
+  "acceptable_methods": ["deep-frying", "grilling", "roasting", "pan-frying"]
+    }
     "cuisines": [
       "Ethiopian",
       "Thai",
