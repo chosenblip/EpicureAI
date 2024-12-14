@@ -1,0 +1,65 @@
+{
+    "Oils and Condiments": [
+        "Olive Oil",
+        "Extra Virgin Olive Oil",
+        "Chili Oil",
+        "Sesame Oil",
+        "Various Hot Sauces",
+        "Soy Sauce",
+        "Worcestershire Sauce",
+        "Tahini Sauce",
+        "Hot Honey",
+        "Clover Honey",
+        "Normal Honey",
+        "Maple Syrup"
+    ],
+    "Stocks and Broths": [
+        "Chicken Bouillon",
+        "Chicken Broth"
+    ],
+    "Dairy and Fats": [
+        "Irish Butter"
+    ],
+    "Pickled Items": [
+        "Pickles",
+        "Relish",
+        "Pickled Jalapeños",
+        "Pickled Veggies",
+        "Sauerkraut"
+    ],
+    "Grains, Pasta, and Mixes": [
+        "Red Lentils",
+        "Uncooked Macaroni",
+        "Lo Mein Noodles",
+        "White Rice",
+        "Box of Rice-a-Roni",
+        "Matzo Ball Mix (needs egg)",
+        "Boxed Stuffing",
+        "Box of Falafel Mix"
+    ],
+    "Baking and Sweeteners": [
+        "Flour",
+        "Cane Sugar",
+        "Brown Sugar"
+    ],
+    "Snacks and Add-Ins": [
+        "Mixed Nuts",
+        "Granola",
+        "Pumpkin Seeds"
+    ],
+    "Vegetables and Onions": [
+        "4 Yellow Onions"
+    ],
+    "Instant and Convenience Foods": [
+        "5 Packs of Instant Ramen"
+    ],
+    "Canned Goods": [
+        "Peas",
+        "Green Beans",
+        "Pineapple",
+        "Tomato Sauce",
+        "Chickpeas",
+        "Kidney Beans",
+        "Black Eyed Peas"
+    ]
+}
