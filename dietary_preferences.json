@@ -45,6 +45,9 @@
       ]
     },
     "cooking_preferences": {
+      "improvement_goals": {
+        "focus": ["exploring new cooking techniques for meats", "improving beyond marinate and bake"]
+      },
       "methods": ["grilling", "roasting", "stir-frying", "pan-frying"],
       "spice_level": "hot",
       "marinades": ["citrus-based", "herb-infused", "sweet heat"],
@@ -125,6 +128,9 @@
       ]
     },
     "seasonal_preferences": {
+      "birthday": {
+        "dishes": ["hot turkey sandwich with mashed potatoes and gravy"]
+      },
       "summer": {
         "fruits": ["watermelon", "lime", "lemon"],
         "vegetables": ["corn"],
@@ -145,6 +151,13 @@
       }
     },
     "meal_preferences": {
+      "quick_meals": {
+        "favorites": [
+          "frozen pizzas",
+          "Kraft instant 4 cheese Mac and Cheese (creamy) combined with browned ground turkey",
+          "roasted potatoes and veggies in the air fryer"
+        ]
+      },
       "time_constraints": "Under 30 minutes",
       "alternative_time": "Longer crockpot meals are acceptable",
       "types": [
