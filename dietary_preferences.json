@@ -7,6 +7,7 @@
       "organic_preference": true
     },
     "avoidances": {
+      "note": "Avoidances mean these items are explicitly not desired in any form."
       "meats": [
         "red meat",
         "beef",
@@ -20,6 +21,7 @@
         "eel"
       ],
       "dairy": [
+        "Alfredo", 
         "ricotta",
         "cottage cheese",
         "feta cheese"
@@ -64,6 +66,7 @@
       "Indian"
     ],
     "flavor_profiles": [
+        "prefers tomato-based sauces",
       "bold",
       "clean",
       "spicy",
