@@ -1,0 +1,110 @@
+{
+  "recipes": {
+    "hot_turkey_sandwich": {
+      "description": "Classic open-faced turkey sandwich topped with homemade skillet gravy, served on soft bread.",
+      "ingredients": [
+        "16 ounces French or Italian loaf of bread (soft, not crusty)",
+        "1 lb good quality deli turkey breast or leftover turkey breast",
+        "1/2 diced yellow onion",
+        "3 tbsp light butter",
+        "3 tbsp flour",
+        "2½ cups water",
+        "2 tsp chicken or vegetable stock concentrate",
+        "salt and pepper, to taste",
+        "cooking spray (e.g., avocado oil cooking spray)"
+      ],
+      "instructions": [
+        "Prepare the skillet gravy: Heat a skillet over medium heat and melt the light butter. Add diced onions and cook until softened (3-4 minutes).",
+        "Stir in the flour and cook for 1 minute until golden. Slowly whisk in water followed by the stock concentrate. Bring to a boil and cook until thickened (2-3 minutes).",
+        "Preheat oven to 375°F. Slice the loaf of bread in half lengthwise, then cut into 3 even sections to make 6 open-faced sandwiches.",
+        "Lay the bread on a sheet pan, spray lightly with cooking spray, and season with salt and pepper. Add about 2.5 ounces of turkey to each slice.",
+        "Optionally, toss the turkey in the gravy before adding it to the bread.",
+        "Place the sandwiches into the oven and bake for 6-8 minutes, until the turkey is warmed and the bread is lightly toasted.",
+        "Top each sandwich with gravy and serve warm."
+      ],
+      "personalized_notes": "For extra flavor, use turkey drippings instead of stock concentrate. Ensure the bread remains soft for the best texture.",
+      "pairings": {
+        "sides": ["Mashed potatoes with gravy", "French fries with gravy"],
+        "drinks": ["Black coffee", "Root beer"]
+      }
+    },
+    "fish_and_chips": {
+      "description": "Crispy battered fish served with thick-cut fries and tartar sauce.",
+      "ingredients": [
+        "white fish fillets",
+        "flour",
+        "baking powder",
+        "cold sparkling water",
+        "potatoes",
+        "oil for frying",
+        "tartar sauce"
+      ],
+      "instructions": [
+        "Mix flour, baking powder, and sparkling water to make a batter.",
+        "Coat the fish fillets in the batter.",
+        "Deep fry the fish and thick-cut fries until golden brown.",
+        "Serve with tartar sauce."
+      ],
+      "personalized_notes": "Use a light, crispy batter and fresh fish for the best results.",
+      "pairings": {
+        "sides": ["Coleslaw"],
+        "drinks": ["Cream Ale", "Lemonade"]
+      }
+    },
+    "turkey_reuben": {
+      "description": "A turkey twist on the classic Reuben sandwich, served with sauerkraut and melted cheese on rye bread.",
+      "ingredients": [
+        "sliced turkey",
+        "sauerkraut",
+        "Swiss cheese",
+        "rye bread",
+        "thousand island dressing"
+      ],
+      "instructions": [
+        "Layer turkey, sauerkraut, and Swiss cheese on rye bread.",
+        "Spread thousand island dressing on the inside of the bread slices.",
+        "Grill the sandwich until the bread is toasted and the cheese is melted."
+      ],
+      "personalized_notes": "Press the sandwich lightly while grilling for an even melt.",
+      "pairings": {
+        "sides": ["Pickles", "Potato chips"],
+        "drinks": ["Cream Soda", "Light beer"]
+      }
+    },
+    "honey_crisp_apple_with_cheese": {
+      "description": "Honey crisp apple paired with smoked aged white cheddar cheese and nuts.",
+      "ingredients": [
+        "honey crisp apple",
+        "smoked aged white cheddar cheese",
+        "mixed nuts"
+      ],
+      "instructions": [
+        "Slice the apple and cheese into bite-sized pieces.",
+        "Arrange on a plate with mixed nuts."
+      ],
+      "personalized_notes": "Use fresh, crisp apples for the best texture contrast.",
+      "pairings": {
+        "sides": ["Crackers"],
+        "drinks": ["White wine", "Sparkling water"]
+      }
+    },
+    "bagel_with_turkey_and_cheese": {
+      "description": "Bagel with a thin slice of mild cheddar cheese and turkey sausage.",
+      "ingredients": [
+        "bagel",
+        "mild cheddar cheese",
+        "turkey sausage"
+      ],
+      "instructions": [
+        "Toast the bagel lightly.",
+        "Cook the turkey sausage.",
+        "Assemble the bagel with cheese and turkey sausage."
+      ],
+      "personalized_notes": "Try adding a spread like cream cheese or mustard for extra flavor.",
+      "pairings": {
+        "sides": ["Fresh fruit"],
+        "drinks": ["Black coffee", "Orange juice"]
+      }
+    }
+  }
+}

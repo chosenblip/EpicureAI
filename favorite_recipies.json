@@ -1,0 +1,101 @@
+{
+  "favorite_meals": [
+    {
+      "name": "Turkey Tacos",
+      "ingredients": [
+        "ground turkey",
+        "taco seasoning",
+        "tortillas",
+        "lettuce",
+        "cheese",
+        "salsa"
+      ],
+      "notes": "Use leftovers for lunch the next day."
+    },
+    {
+      "name": "Chicken Soup",
+      "ingredients": [
+        "chicken",
+        "carrots",
+        "celery",
+        "onions",
+        "chicken broth",
+        "couscous"
+      ],
+      "notes": "Make a large batch and eat throughout the week."
+    },
+    {
+      "name": "Black Bean Flautas",
+      "ingredients": [
+        "black beans",
+        "tortillas",
+        "smoked gouda",
+        "jalapeños"
+      ],
+      "notes": "Pairs well with slaw."
+    },
+    {
+      "name": "Mac and Cheese",
+      "ingredients": [
+        "macaroni",
+        "cheddar cheese",
+        "milk",
+        "butter",
+        "flour"
+      ],
+      "notes": "Comfort food; make extra for leftovers."
+    },
+    {
+      "name": "Hot Honey Baked Chicken Breast",
+      "ingredients": [
+        "chicken breast",
+        "hot honey",
+        "olive oil",
+        "spices (like paprika, garlic powder, salt, pepper)"
+      ],
+      "notes": "Sweet and spicy flavor, great with roasted veggies."
+    },
+    {
+      "name": "Air Fryer Potatoes, Onions, and Green Peppers with Chili Oil and Spices",
+      "ingredients": [
+        "potatoes",
+        "onions",
+        "green peppers",
+        "chili oil",
+        "spices (like cumin, paprika, salt, pepper)"
+      ],
+      "notes": "Crispy and flavorful; pairs well with eggs or protein."
+    },
+    {
+      "name": "Cholent",
+      "ingredients": [
+        "onion",
+        "potatoes",
+        "carrot",
+        "kidney beans",
+        "peas",
+        "tomato paste",
+        "tomato puree",
+        "garlic",
+        "bay leaves",
+        "caraway seeds",
+        "TVP chunks (optional)"
+      ],
+      "notes": "Hearty Jewish stew, great for batch cooking."
+    },
+    {
+      "name": "Aloo Masala",
+      "ingredients": [
+        "potatoes",
+        "mustard seeds",
+        "cumin seeds",
+        "turmeric",
+        "onion",
+        "curry leaves",
+        "chili",
+        "parsley"
+      ],
+      "notes": "Spiced potato dish; versatile as a side or main."
+    }
+  ]
+}

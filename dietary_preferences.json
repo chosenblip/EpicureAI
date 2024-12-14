@@ -1,0 +1,175 @@
+{
+  "dietary_preferences": {
+    "style": "Kosher-Inspired Mediterranean Clean Eating",
+    "cooking_level": "Intermediate",
+    "nutritional_goals": {
+      "balanced_meals": true
+    },
+    "avoidances": {
+      "meats": [
+        "red meat",
+        "beef",
+        "pig",
+        "pork",
+        "mammal meat",
+        "shellfish"
+        "lamb",
+        "duck",
+        "deer"
+      ],
+      "dairy": [
+        "ricotta",
+
+        "cottage cheese",
+        "feta cheese"
+      ],
+      "vegetables": [
+        "cilantro",
+        "zucchini",
+        "eggplant",
+        "mushrooms",
+        "asparagus"
+      ],
+      "fruits": [
+        "strawberries",
+        "peach",
+        "raspberry"
+      ],
+      "other": [
+                "tomatoes (uncooked)",
+        "sour cream",
+        "eggs (directly)"
+      ]
+    },
+    "preferences": {
+      "cuisines": [
+        "Italian",
+        "Mexican",
+        "Mediterranean",
+        "Kosher",
+        "Vegetarian"
+      ],
+      "flavor_profiles": [
+        "bold",
+        "clean",
+        "spicy",
+        "savory",
+        "citrusy",
+        "sweet-savory"
+      ],
+      "favorites": {
+        "vegetables": [
+          "potato",
+          "carrots",
+          "ginger",
+          "corn"
+        ],
+        "fruits": [
+          "honey crisp apple",
+          "cherries",
+          "lemon",
+          "lime",
+          "watermelon"
+        ],
+        "proteins": [
+          "turkey sausage",
+          "turkey bacon",
+          "lentils",
+          "hummus",
+          "chickpeas",
+          "salmon",
+          "tuna",
+          "perch",
+          "cod",
+          "chicken",
+          "turkey",
+          "pinto bean",
+          "black beans",
+          "kidney beans",
+          "turkey jerky"
+        ],
+        "grains": [
+          "wild rice",
+          "couscous",
+          "white rice",
+          "lo mein noodles",
+          "egg noodles"
+        ],
+        "dairy": [
+          "cheddar cheese",
+          "gouda",
+          "mozzarella",
+          "provolone",
+          "munster",
+          "buttermilk",
+          "cream"
+        ],
+        "desserts": [
+          "ice cream",
+          "brownie",
+          "key lime pie",
+          "sweet potato pie",
+          "apple crumble"
+        ]
+      }
+    },
+    "beverage_preferences": {
+      "wine": [
+        "Light-Bodied White Wine",
+        "Full-Bodied White Wine",
+        "Light-Bodied Red Wine",
+        "Full-Bodied Red Wine",
+        "Medium-Bodied Red Wine",
+        "Dessert Wine"
+      ],
+      "beer": [
+        "Irish Dry Stout",
+        "Cream Ale",
+        "English Brown Ale",
+        "American IPA",
+        "Bock"
+      ],
+      "tea": [
+        "Powdered ginger with clover honey and lemon",
+        "Matcha tea",
+        "Gunpowder green tea",
+        "Earl Grey",
+        "Chai"
+      ],
+      "coffee": [
+        "Black coffee",
+        "Espresso",
+        "Mocha"
+      ],
+      "soda": [
+        "Ginger beer",
+        "Ginger soda",
+        "Mexican Coke",
+        "Root beer",
+        "Sprite Lymonade",
+        "Faygo creme soda"
+      ]
+    },
+    "meal_preferences": {
+      "time_constraints": "Under 30 minutes",
+      "alternative_time": "Longer crockpot meals are acceptable",
+      "types": [
+        "light breakfast",
+        "lunch",
+        "dinner",
+        "snack (optional, only use pantry items)"
+      ]
+    },
+    "ingredient_guidelines": {
+      "dairy": "Whole milk and cream are acceptable, as well as almond-based alternatives",
+      "oils": [
+        "olive oil",
+        "avocado oil"
+      ],
+      "sugar": "Cane sugar is preferred; brown sugar is acceptable",
+      "butter": "Irish butter is preferred but open to high-quality alternatives",
+      "tomatoes": "Dislike the texture of raw tomatoes; will not eat them uncooked",
+      "eggs": "Acceptable only as a hidden ingredient (e.g., in baked goods), not as a standalone element or in dishes where egg texture/flavor is prominent"
+    }
+  }
+}
