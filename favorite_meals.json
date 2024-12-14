@@ -105,6 +105,34 @@
         "sides": ["Fresh fruit"],
         "drinks": ["Black coffee", "Orange juice"]
       }
-    }
+    },
+    "crock_pot_buttered_noodles_with_chicken_gravy": {
+      "description": "A comforting, slow-cooked version of Zehnder’s famous buttered noodles, paired with a rich and savory chicken gravy.",
+      "ingredients": [
+        "1 lb egg noodles",
+        "4 cups chicken stock",
+        "1/2 cup whole milk or heavy cream",
+        "1/4 cup unsalted butter, cubed",
+        "1/4 cup all-purpose flour",
+        "1 lb boneless, skinless chicken breast or thighs (optional)",
+        "1 tsp garlic powder",
+        "1 tsp onion powder",
+        "1/2 tsp dried thyme",
+        "1/4 tsp paprika (optional)",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Season chicken with salt and pepper. Sear in a skillet with olive oil for 2 minutes on each side for added flavor (optional).",
+        "Add chicken stock, butter, garlic powder, onion powder, thyme, and paprika to the crock pot. Stir to combine. If using chicken, place it into the slow cooker.",
+        "Cover and cook on Low for 6–7 hours or High for 3–4 hours, until chicken is tender.",
+        "In a bowl, whisk flour with milk or cream until smooth. Stir into the crock pot and cook on High for 20–30 minutes until thickened.",
+        "Stir in uncooked egg noodles, ensuring they are submerged. Cook on High for 15–20 minutes until tender.",
+        "Shred or chop chicken if included, then toss noodles in the gravy. Adjust seasoning if necessary and serve warm."
+      ],
+      "personalized_notes": "For added richness, stir in extra butter at the end. Garnish with parsley or chives for a fresh finish. Pair with roasted vegetables or a fresh salad for a complete meal.",
+      "pairings": {
+        "sides": ["Roasted vegetables", "Fresh garden salad"],
+        "drinks": ["Chilled white wine", "Sparkling water with lemon"]
+      }
   }
 }
