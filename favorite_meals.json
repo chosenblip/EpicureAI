@@ -133,6 +133,31 @@
       "pairings": {
         "sides": ["Roasted vegetables", "Fresh garden salad"],
         "drinks": ["Chilled white wine", "Sparkling water with lemon"]
+
+
+    "favorite_pizza": {
+      "description": "Spicy marinara on a NY style crust with mozzarella cheese, jalapeno peppers, black olives, and pineapple.",
+      "ingredients": [
+        "NY style pizza crust",
+        "spicy marinara sauce",
+        "mozzarella cheese",
+        "jalapeno peppers",
+        "black olives",
+        "pineapple"
+      ],
+      "instructions": [
+        "Preheat oven to 475°F (245°C).",
+        "Spread spicy marinara sauce evenly over the pizza crust.",
+        "Sprinkle mozzarella cheese over the sauce.",
+        "Add jalapeno peppers, black olives, and pineapple as toppings.",
+        "Bake in the preheated oven for 10-12 minutes, or until the crust is golden and the cheese is bubbly."
+      ],
+      "personalized_notes": "For extra heat, add more jalapeno peppers or a drizzle of hot sauce before serving.",
+      "pairings": {
+        "sides": ["Garlic knots", "Caesar salad"],
+        "drinks": ["Iced tea", "Lemonade"]
+      }
+    }
       }
   }
 }
